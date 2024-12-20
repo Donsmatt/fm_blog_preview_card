@@ -120,7 +120,7 @@ img {
 .user {
   display: flex;
   align-items: center;
-  gap: var(--spacing-100);
+  gap: var(--spacing-150);
 }
 
 .user img {
